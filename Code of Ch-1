@@ -1,0 +1,57 @@
+# Write the code of the Sum
+a = 1000 
+b = 500
+sum = a + b 
+print (sum)
+
+# Data Types of the Python 
+name = "Aryan negi"
+age = 14
+prize = 323.34
+old = True
+X = None 
+
+print (type(name))
+print (type(age))
+print (type(prize))
+print (type(old))
+print (type(X))
+
+#Operators in Python 
+"""(i) Arithmetic operators"""
+a = 12
+b = 6
+sum = (a % b)
+print (sum)
+
+"""(ii) Relation operators"""
+a = 10
+b = 2
+sum = (a<=b)
+print (sum)
+
+"""(iii) Assignment operators"""
+a = 24
+a %= 2
+print (a)
+
+# Taking input from the users in the python 
+name = (input("Name: "))
+age = (input("Age: "))
+prize = (input("Prize: "))
+old = (input("Old: "))
+
+print (name, age, prize, old)
+
+print ("My name is", name)
+print ("I am", age, "years old")
+print ("The prize of the book is", prize)
+print ("This man is", old)
+
+"""(iv) Logical operators """
+a = 10
+b = 8
+c = 13
+d = 18
+e = (a > b or c > d)
+print (e)
