@@ -56,5 +56,4 @@ d = 18
 e = (a > b or c > d)
 print (e)
 
-"I can add this line in this sentence"
 name = "Aryan negi"
