@@ -55,5 +55,3 @@ c = 13
 d = 18
 e = (a > b or c > d)
 print (e)
-
-name = "Aryan Negi"
